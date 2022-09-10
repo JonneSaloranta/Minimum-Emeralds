@@ -123,7 +123,7 @@ body {
 .title::before, .title::after {
   position: absolute;
   content: "";
-  background: url("/src/img/emerald.png") no-repeat;
+  background: url("/img/emerald.png") no-repeat;
   width: 80px;
   height: 80px;
   background-size: 10rem;
@@ -276,77 +276,77 @@ button:hover, button:active, button:focus {
 }
 
 .helmet::after {
-  background: url("/src/img/iron_helmet.png") no-repeat;
+  background: url("/img/iron_helmet.png") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .platebody::after {
-  background: url("/src/img/iron_platebody.png") no-repeat;
+  background: url("/img/iron_platebody.png") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .leggings::after {
-  background: url("/src/img/iron_leggings.png") no-repeat;
+  background: url("/img/iron_leggings.png") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .boots::after {
-  background: url("/src/img/iron_boots.png") no-repeat;
+  background: url("/img/iron_boots.png") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .sword::after {
-  background: url("/src/img/iron_sword.png") no-repeat;
+  background: url("/img/iron_sword.png") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .tools::after {
-  background: url("/src/img/iron_pickaxe.png") no-repeat;
+  background: url("/img/iron_pickaxe.png") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .bow::after {
-  background: url("/src/img/bow.png") no-repeat;
+  background: url("/img/bow.png") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .crossbow::after {
-  background: url("/src/img/crossbow.png") no-repeat;
+  background: url("/img/crossbow.png") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .rod::after {
-  background: url("/src/img/rod.png") no-repeat;
+  background: url("/img/rod.png") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .trident::after {
-  background: url("/src/img/trident.png") no-repeat;
+  background: url("/img/trident.png") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .emerald::after {
-  background: url("/src/img/emerald.png") no-repeat;
+  background: url("/img/emerald.png") no-repeat;
   background-size: 5rem;
   background-position: center center;
   left: 6.5rem;
@@ -354,7 +354,7 @@ button:hover, button:active, button:focus {
 }
 
 .misc::after {
-  background: url("/src/img/enchanted_book.webp") no-repeat;
+  background: url("/img/enchanted_book.webp") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;

@@ -103,7 +103,7 @@ body {
     &::after {
         position: absolute;
         content: "";
-        background: url("/src/img/emerald.png") no-repeat;
+        background: url("/img/emerald.png") no-repeat;
         width: 80px;
         height: 80px;
         background-size: 10rem;
@@ -259,7 +259,7 @@ button {
 
 .helmet {
     &::after {
-        background: url("/src/img/iron_helmet.png") no-repeat;
+        background: url("/img/iron_helmet.png") no-repeat;
         background-size: 5rem;
         background-position: center center;
         top: -25%;
@@ -268,7 +268,7 @@ button {
 
 .platebody {
     &::after {
-        background: url("/src/img/iron_platebody.png") no-repeat;
+        background: url("/img/iron_platebody.png") no-repeat;
         background-size: 5rem;
         background-position: center center;
         top: -25%;
@@ -277,7 +277,7 @@ button {
 
 .leggings {
     &::after {
-        background: url("/src/img/iron_leggings.png") no-repeat;
+        background: url("/img/iron_leggings.png") no-repeat;
         background-size: 5rem;
         background-position: center center;
         top: -25%;
@@ -286,7 +286,7 @@ button {
 
 .boots {
     &::after {
-        background: url("/src/img/iron_boots.png") no-repeat;
+        background: url("/img/iron_boots.png") no-repeat;
         background-size: 5rem;
         background-position: center center;
         top: -25%;
@@ -295,7 +295,7 @@ button {
 
 .sword {
     &::after {
-        background: url("/src/img/iron_sword.png") no-repeat;
+        background: url("/img/iron_sword.png") no-repeat;
         background-size: 5rem;
         background-position: center center;
         top: -25%;
@@ -304,7 +304,7 @@ button {
 
 .tools {
     &::after {
-        background: url("/src/img/iron_pickaxe.png") no-repeat;
+        background: url("/img/iron_pickaxe.png") no-repeat;
         background-size: 5rem;
         background-position: center center;
         top: -25%;
@@ -313,7 +313,7 @@ button {
 
 .bow {
     &::after {
-        background: url("/src/img/bow.png") no-repeat;
+        background: url("/img/bow.png") no-repeat;
         background-size: 5rem;
         background-position: center center;
         top: -25%;
@@ -322,7 +322,7 @@ button {
 
 .crossbow {
     &::after {
-        background: url("/src/img/crossbow.png") no-repeat;
+        background: url("/img/crossbow.png") no-repeat;
         background-size: 5rem;
         background-position: center center;
         top: -25%;
@@ -331,7 +331,7 @@ button {
 
 .rod {
     &::after {
-        background: url("/src/img/rod.png") no-repeat;
+        background: url("/img/rod.png") no-repeat;
         background-size: 5rem;
         background-position: center center;
         top: -25%;
@@ -340,7 +340,7 @@ button {
 
 .trident {
     &::after {
-        background: url("/src/img/trident.png") no-repeat;
+        background: url("/img/trident.png") no-repeat;
         background-size: 5rem;
         background-position: center center;
         top: -25%;
@@ -349,7 +349,7 @@ button {
 
 .emerald {
     &::after {
-        background: url("/src/img/emerald.png") no-repeat;
+        background: url("/img/emerald.png") no-repeat;
         background-size: 5rem;
         background-position: center center;
         left: 6.5rem;
@@ -359,7 +359,7 @@ button {
 
 .misc {
     &::after {
-        background: url("/src/img/enchanted_book.webp") no-repeat;
+        background: url("/img/enchanted_book.webp") no-repeat;
         background-size: 5rem;
         background-position: center center;
         top: -25%;
