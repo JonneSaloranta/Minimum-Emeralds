@@ -152,17 +152,17 @@ It is a web app that runs in the browser. It is written in HTML, CSS, and JavaSc
  
 | ICON-TYPE | ICON                                       | CSS CLASS  |
 | --------- | ------------------------------------------ | ---------- |
-| helmet    | ![platebody](/src/img/iron_helmet.png)     | .helmet    |
-| platebody | ![platebody](/src/img/iron_platebody.png)  | .platebody |
-| leggings  | ![platebody](/src/img/iron_leggings.png)   | .leggings  |
-| boots     | ![platebody](/src/img/iron_platebody.png)  | .boots     |
-| bow       | ![platebody](/src/img/iron_boots.png)      | .bow       |
-| crossbow  | ![platebody](/src/img/crossbow.png)        | .crossbow  |
-| trident   | ![platebody](/src/img/trident.png)         | .trident   |
-| rod       | ![platebody](/src/img/rod.png)             | .rod       |
-| misc      | ![platebody](/src/img/enchanted_book.webp) | .misc      |
-| sword     | ![platebody](/src/img/iron_sword.png)      | .sword     |
-| tools     | ![platebody](/src/img/iron_pickaxe.png)    | .tools     |
+| helmet    | ![platebody](/img/iron_helmet.png)     | .helmet    |
+| platebody | ![platebody](/img/iron_platebody.png)  | .platebody |
+| leggings  | ![platebody](/img/iron_leggings.png)   | .leggings  |
+| boots     | ![platebody](/img/iron_platebody.png)  | .boots     |
+| bow       | ![platebody](/img/iron_boots.png)      | .bow       |
+| crossbow  | ![platebody](/img/crossbow.png)        | .crossbow  |
+| trident   | ![platebody](/img/trident.png)         | .trident   |
+| rod       | ![platebody](/img/rod.png)             | .rod       |
+| misc      | ![platebody](/img/enchanted_book.webp) | .misc      |
+| sword     | ![platebody](/img/iron_sword.png)      | .sword     |
+| tools     | ![platebody](/img/iron_pickaxe.png)    | .tools     |
 
 <br>
 
