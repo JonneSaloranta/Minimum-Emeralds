@@ -103,7 +103,7 @@ function arrayContains(array, value) {
 }
 
 function getEnchants() {
-    return fetch("../Enchantments.json")
+    return fetch("/Enchantments.json")
         .then((response) => response.json())
         .then((data) => {
             return data;
