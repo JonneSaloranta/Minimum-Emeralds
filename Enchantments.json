@@ -1,0 +1,158 @@
+{
+    "enchants": [
+        {
+            "icon": "platebody",
+            "title": "Armor",
+            "enchant":{
+                "name": "Protection",
+                "lvl": 1,
+                "cost": 0
+            }
+        },
+        {
+            "icon": "platebody",
+            "title": "Armor",
+            "enchant":{
+                "name": "Protection",
+                "lvl": 2,
+                "cost": 0
+            }
+        },
+        {
+            "icon": "platebody",
+            "title": "Armor",
+            "enchant":{
+                "name": "Protection",
+                "lvl": 3,
+                "cost": 0
+            }
+        },
+        {
+            "icon": "platebody",
+            "title": "Armor",
+            "enchant":{
+                "name": "Protection",
+                "lvl": 4,
+                "cost": 0
+            }
+        },
+        {
+            "icon": "sword",
+            "title": "Swords",
+            "enchant":{
+                "name": "Smite",
+                "lvl": 1,
+                "cost": 0
+            }
+        },
+        {
+            "icon": "rod",
+            "title": "Swords",
+            "enchant":{
+                "name": "Smite",
+                "lvl": 2,
+                "cost": 0
+            }
+        },
+        {
+            "icon": "sword",
+            "title": "Swords",
+            "enchant":{
+                "name": "Smite",
+                "lvl": 3,
+                "cost": 0
+            }
+        },
+        {
+            "icon": "sword",
+            "title": "Swords",
+            "enchant":{
+                "name": "Smite",
+                "lvl": 4,
+                "cost": 0
+            }
+        },
+        {
+            "icon": "sword",
+            "title": "Swords",
+            "enchant":{
+                "name": "Smite",
+                "lvl": 5,
+                "cost": 0
+            }
+        },
+        {
+            "icon": "misc",
+            "title": "Misc",
+            "enchant":{
+                "name": "Vanishing Curse",
+                "lvl": 5,
+                "cost": 0
+            }
+        },
+        {
+            "icon": "misc",
+            "title": "Misc",
+            "enchant":{
+                "name": "test Curse",
+                "lvl": 5,
+                "cost": 0
+            }
+        },
+        {
+            "icon": "platebody",
+            "title": "Best platebody",
+            "enchant":{
+                "name": "Protection",
+                "lvl": 4,
+                "cost": 0
+            }
+        }
+        ,
+        {
+            "icon": "platebody",
+            "title": "Best platebody",
+            "enchant":{
+                "name": "Unbreaking",
+                "lvl": 3,
+                "cost": 0
+            }
+        },
+        {
+            "icon": "platebody",
+            "title": "Best platebody",
+            "enchant":{
+                "name": "Mending",
+                "lvl": 0,
+                "cost": 0
+            }
+        },
+        {
+            "icon": "platebody",
+            "title": "Best platebody",
+            "enchant":{
+                "name": "Thorns",
+                "lvl": 3,
+                "cost": 0
+            }
+        },
+        {
+            "icon": "rod",
+            "title": "Best fishing rod",
+            "enchant": {
+                "name": "Lure",
+                "lvl": 3,
+                "cost": 12
+            }
+        },
+        {
+            "icon": "rod",
+            "title": "Best fishing rod",
+            "enchant": {
+                "name": "Mending",
+                "lvl": 0,
+                "cost": 14
+            }
+        }
+    ]
+}
