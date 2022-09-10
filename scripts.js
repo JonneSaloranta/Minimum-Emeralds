@@ -103,7 +103,9 @@ function arrayContains(array, value) {
 }
 
 function getEnchants() {
-    return fetch("/Enchantments.json")
+    return fetch(
+        "https://raw.githubusercontent.com/JonneSaloranta/Minimum-Emeralds/master/Enchantments.json"
+    )
         .then((response) => response.json())
         .then((data) => {
             return data;
