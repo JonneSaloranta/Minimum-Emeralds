@@ -22,7 +22,7 @@ html {
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Lucida Console", Monospace;
   font-size: 16px;
   line-height: 1.5;
   background: var(--bg-color);
@@ -38,6 +38,71 @@ body {
   align-items: center;
 }
 
+.colorshift {
+  display: flex;
+  flex: 1;
+  width: 100%;
+  color: var(--text-color);
+  padding: 2rem;
+  font-size: 1.6rem;
+  border: #fff solid 1px;
+  max-width: 50%;
+  border-radius: var(--border-radius);
+  margin: 2rem;
+  font-weight: bold;
+  text-align: center;
+  -webkit-animation: colorShift 10s infinite alternate;
+          animation: colorShift 10s infinite alternate;
+}
+.colorshift p {
+  margin: 0 2rem;
+}
+
+@-webkit-keyframes colorShift {
+  0% {
+    color: #ff0000;
+    border: #ff0000 solid 1px;
+  }
+  25% {
+    color: #ff7f00;
+    border: #ff7f00 solid 1px;
+  }
+  50% {
+    color: #ffff00;
+    border: #ffff00 solid 1px;
+  }
+  75% {
+    color: #00ff00;
+    border: #00ff00 solid 1px;
+  }
+  100% {
+    color: #0000ff;
+    border: #0000ff solid 1px;
+  }
+}
+
+@keyframes colorShift {
+  0% {
+    color: #ff0000;
+    border: #ff0000 solid 1px;
+  }
+  25% {
+    color: #ff7f00;
+    border: #ff7f00 solid 1px;
+  }
+  50% {
+    color: #ffff00;
+    border: #ffff00 solid 1px;
+  }
+  75% {
+    color: #00ff00;
+    border: #00ff00 solid 1px;
+  }
+  100% {
+    color: #0000ff;
+    border: #0000ff solid 1px;
+  }
+}
 .row {
   display: flex;
   flex-direction: row;
