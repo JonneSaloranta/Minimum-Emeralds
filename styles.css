@@ -123,7 +123,7 @@ body {
 .title::before, .title::after {
   position: absolute;
   content: "";
-  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/emerald.png") no-repeat;
+  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/emerald.png?raw=true") no-repeat;
   width: 80px;
   height: 80px;
   background-size: 10rem;
@@ -276,77 +276,77 @@ button:hover, button:active, button:focus {
 }
 
 .helmet::after {
-  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/iron_helmet.png") no-repeat;
+  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/iron_helmet.png?raw=true") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .platebody::after {
-  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/iron_platebody.png") no-repeat;
+  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/iron_platebody.png?raw=true") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .leggings::after {
-  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/iron_leggings.png") no-repeat;
+  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/iron_leggings.png?raw=true") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .boots::after {
-  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/iron_boots.png") no-repeat;
+  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/iron_boots.png?raw=true") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .sword::after {
-  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/iron_sword.png") no-repeat;
+  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/iron_sword.png?raw=true") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .tools::after {
-  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/iron_pickaxe.png") no-repeat;
+  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/iron_pickaxe.png?raw=true") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .bow::after {
-  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/bow.png") no-repeat;
+  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/bow.png?raw=true") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .crossbow::after {
-  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/crossbow.png") no-repeat;
+  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/crossbow.png?raw=true") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .rod::after {
-  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/rod.png") no-repeat;
+  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/rod.png?raw=true") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .trident::after {
-  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/trident.png") no-repeat;
+  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/trident.png?raw=true") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
 }
 
 .emerald::after {
-  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/emerald.png") no-repeat;
+  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/emerald.png?raw=true") no-repeat;
   background-size: 5rem;
   background-position: center center;
   left: 6.5rem;
@@ -354,7 +354,7 @@ button:hover, button:active, button:focus {
 }
 
 .misc::after {
-  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/enchanted_book.webp") no-repeat;
+  background: url("https://github.com/JonneSaloranta/Minimum-Emeralds/blob/master/img/enchanted_book.webp?raw=true") no-repeat;
   background-size: 5rem;
   background-position: center center;
   top: -25%;
