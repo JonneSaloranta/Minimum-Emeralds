@@ -104,12 +104,19 @@ function arrayContains(array, value) {
 
 function getEnchants() {
     return fetch(
-        "https://raw.githubusercontent.com/JonneSaloranta/Minimum-Emeralds/master/Enchantments.json"
+        "https://raw.githubusercontent.com/JonneSaloranta/Minimum-Emeralds/master/Enchantments.json",
+        {
+            headers: {
+                Accept: "application/vnd.github.v3+json",
+            },
+        }
     )
         .then((response) => response.json())
         .then((data) => {
+            console.log(data);
             return data;
-        });
+        })
+        .catch((error) => console.error(error));
 }
 
 function addClickListener() {
